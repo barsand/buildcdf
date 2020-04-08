@@ -4,7 +4,7 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='buildcdf-barsand', # Replace with your own username
+    name='buildcdf',
     version='1',
     author='Lucas Barsand',
     author_email='barsandlucas@gmail.com',
